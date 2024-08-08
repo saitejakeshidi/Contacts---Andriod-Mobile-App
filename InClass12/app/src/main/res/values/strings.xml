@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">InClass12</string>
+    <string name="firstName">Enter first name</string>
+    <string name="lastName">Enter last name</string>
+    <string name="email">Enter email</string>
+    <string name="enterPassword">Enter Password</string>
+    <string name="repeatPassword">Repeat Password</string>
+    <string name="signup">Sign Up</string>
+    <string name="cancel">Cancel</string>
+    <string name="login">login</string>
+    <string name="createNewContact">Create New Contact</string>
+    <string name="createContact">Create New Contact</string>
+    <string name="noContactsAvailable">Please add contacts.</string>
+    <string name="title_activity_create_contact">CreateContact</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="submit">Submit</string>
+    <string name="name">name</string>
+    <string name="enterPhoneNo">Enter Phone Number</string>
+</resources>
